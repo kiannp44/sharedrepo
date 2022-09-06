@@ -3,9 +3,9 @@
 
 ### Week 2
 
-Our plan to wor
+This week we both are working on seperate math operations on our own repos and will put them together in one menu on our shared repo once they are 100% complete.
 
-| Names    | Plan | Test Text     |
+| Names    | Plan | Review Ticket  |
 | :---        |    :----:   |          ---: |
-| Samuel     | Title       | Here's this   |
-| Kian   | Text        | And more      |
+| Samuel     | Work on making a signficiant figures calculator in java menu | [Ticket](https://github.com/Samuelwaang/samuel/issues/5)  |
+| Kian   |  Work on making a subtraction calculator in java menu    | [Ticket](https://github.com/kiannp44/KianFastPages/issues/4) | 
