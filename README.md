@@ -9,4 +9,4 @@ This week we both are working on seperate math operations on our own repos and w
 | Names    | Plan | Review Ticket  |
 | :---        |    :----:   |          ---: |
 | Samuel     | Work on making a signficiant figures calculator in java menu | [Ticket](https://github.com/Samuelwaang/samuel/issues/5)  |
-| Kian   |  Work on making an addition and subtraction calculator in java menu    | [Ticket](https://github.com/kiannp44/KianFastPages/issues/4) | 
+| Kian   |  Work on making an addition, subtraction, multiplication calculator in java menu    | [Ticket](https://github.com/kiannp44/KianFastPages/issues/4) | 
